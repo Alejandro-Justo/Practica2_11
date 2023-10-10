@@ -1,7 +1,7 @@
 # Practica2_11
 Hola Mundo
 
-from machine import Pin, I2C
+<!--from machine import Pin, I2C
 from ssd1306 import SSD1306_I2C
 import utime
 import ntptime
@@ -45,7 +45,7 @@ def main():
 
 if __name__ == '__main__':
     main()
-    
+  -->  
 ![](Imagenes/Hola Mundo.jpeg)
 
 **La Hora de Internet (NTP Time server)
