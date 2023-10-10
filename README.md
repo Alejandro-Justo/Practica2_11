@@ -45,8 +45,10 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
+![](Imagenes/Hola Mundo.jpeg)
 
-La Hora de Internet (NTP Time server)
+**La Hora de Internet (NTP Time server)
 
 from machine import Pin, I2C
 from ssd1306 import SSD1306_I2C
@@ -94,3 +96,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+![](Imagenes/Hola Mundo.jpeg)
