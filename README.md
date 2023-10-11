@@ -46,7 +46,7 @@ Hola Mundo
     if __name__ == '__main__':
         main()
     
-    ![](Imagenes/HolaMundo.jpg)
+ ![](Imagenes/HolaMundo.jpg)
 
     **La Hora de Internet (NTP Time server)
 
