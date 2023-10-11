@@ -1,5 +1,6 @@
 # Practica2_11
 Hola Mundo
+![](Imagenes/HolaMundo.jpg)
 
     from machine import Pin, I2C
     from ssd1306 import SSD1306_I2C
@@ -95,6 +96,5 @@ Hola Mundo
 
     if __name__ == '__main__':
         main()
-
-    ![](Imagenes/Tiempo.jpg)
-    
+ 
+![](Imagenes/Tiempo.jpg)
